@@ -1,0 +1,49 @@
+﻿<Page
+    x:Class="ProjectFinland.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ProjectFinland"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition>
+
+            </RowDefinition>
+            <RowDefinition>
+
+            </RowDefinition>
+            <RowDefinition>
+
+            </RowDefinition>
+            <RowDefinition>
+
+            </RowDefinition>
+            <RowDefinition>
+
+            </RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2">
+            <StackPanel HorizontalAlignment="Right">
+                <TextBox Height="5" Width="120" Name="username" Text="Username"></TextBox>
+                <TextBox Width="120" Height="5" Name="password" Text="Password"></TextBox>
+            </StackPanel>
+            <StackPanel VerticalAlignment="Top">
+                <Button x:ConnectionId='1' Width="10"                     >Login</Button>
+                <Button x:ConnectionId='2'                       >Register</Button>
+            </StackPanel>
+
+        </Grid>
+
+    </Grid>
+</Page>
+

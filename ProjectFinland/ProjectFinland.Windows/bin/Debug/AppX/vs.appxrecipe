@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JONASC-PC</Machine>
+    <WindowsUser>jonas</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ba0724a4-5e62-4c54-8244-69fbceba8fc1</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>51EA44768FFFACD428906B38A022FC1D664CD8158FADAA8BECF4FEA841E79CF1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ba0724a4-5e62-4c54-8244-69fbceba8fc1_1.0.0.0_neutral__fxs4yby6q8m3m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ba0724a4-5e62-4c54-8244-69fbceba8fc1_fxs4yby6q8m3m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ba0724a4-5e62-4c54-8244-69fbceba8fc1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=jonas</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-13T12:19:39.814</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.Windows\bin\Debug\ProjectFinland.Windows.exe">
+      <PackagePath>ProjectFinland.Windows.exe</PackagePath>
+      <Modified>2015-02-13T12:19:36.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-02-13T12:19:36.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-02-13T12:19:36.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.Windows\bin\Debug\ProjectFinland.Windows.xr.xml">
+      <PackagePath>ProjectFinland.Windows.xr.xml</PackagePath>
+      <Modified>2015-02-13T12:19:35.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-13T12:19:39.186</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
