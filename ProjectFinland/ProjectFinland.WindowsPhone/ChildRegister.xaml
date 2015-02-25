@@ -1,5 +1,5 @@
 ﻿<Page
-    x:Class="ProjectFinland.Page2"
+    x:Class="ProjectFinland.page3"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:ProjectFinland"
@@ -32,36 +32,36 @@
             <ColumnDefinition></ColumnDefinition>
             <ColumnDefinition></ColumnDefinition>
         </Grid.ColumnDefinitions>
+        
         <Grid Grid.Row="0" Grid.Column="1">
-            <TextBlock Text="Register Parent" Style="{StaticResource BaseTextBlockStyle}"/>            
+            <TextBlock Text="Register Child"  Style="{StaticResource BaseTextBlockStyle}"/>
+        </Grid>
+        <Grid Grid.Row="4" Grid.Column="2">
+            <Button Click="Button_Click">Submit</Button>
         </Grid>
         <Grid Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2">
             <StackPanel VerticalAlignment="Bottom">
                 <TextBlock Text="Username" FontSize="20"></TextBlock>
-                <TextBox></TextBox>
+                <TextBox></TextBox>             
             </StackPanel>
         </Grid>
         <Grid Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2">
             <StackPanel VerticalAlignment="Center">
                 <TextBlock Text="Password" FontSize="20"></TextBlock>
-                <TextBox></TextBox>
+                <PasswordBox></PasswordBox>
             </StackPanel>
         </Grid>
         <Grid Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2">
             <StackPanel VerticalAlignment="Center">
-            <TextBlock Text="Confirm password" FontSize="20"></TextBlock>
+                <TextBlock Text="Confirm password" FontSize="20"></TextBlock>
+                <PasswordBox></PasswordBox>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2">
+            <StackPanel VerticalAlignment="Center">
+                <TextBlock Text="Parent's Username" FontSize="20"></TextBlock>
                 <TextBox></TextBox>
             </StackPanel>
         </Grid>
-        <Grid Grid.Row="4" Grid.Column="2">
-            <Button Click="Button_Click">
-                Next
-            </Button>
-            
-        </Grid>
-        
     </Grid>
-    
-   
-    
 </Page>

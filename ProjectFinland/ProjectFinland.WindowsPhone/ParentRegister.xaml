@@ -38,24 +38,24 @@
         <Grid Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2">
             <StackPanel VerticalAlignment="Bottom">
                 <TextBlock Text="Username" FontSize="20"></TextBlock>
-                <TextBox></TextBox>
+                <TextBox Name="UsernameParents"></TextBox>
             </StackPanel>
         </Grid>
         <Grid Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2">
             <StackPanel VerticalAlignment="Center">
                 <TextBlock Text="Password" FontSize="20"></TextBlock>
-                <TextBox></TextBox>
+                <PasswordBox Name="PasswordParents"></PasswordBox>
             </StackPanel>
         </Grid>
         <Grid Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2">
             <StackPanel VerticalAlignment="Center">
             <TextBlock Text="Confirm password" FontSize="20"></TextBlock>
-                <TextBox></TextBox>
+                <PasswordBox Name="ConfPassword"></PasswordBox>
             </StackPanel>
         </Grid>
         <Grid Grid.Row="4" Grid.Column="2">
-            <Button x:ConnectionId='1'                     >
-                Next
+            <Button Content="Next" Click="Button_Click">
+                
             </Button>
             
         </Grid>
@@ -65,4 +65,3 @@
    
     
 </Page>
-

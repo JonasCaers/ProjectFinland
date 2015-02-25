@@ -1,0 +1,49 @@
+﻿<Page
+    x:Class="ProjectFinland.Add_task"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ProjectFinland"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+           
+            
+            <TextBlock Text="Add Task" Width="220" HorizontalAlignment="Left" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+            
+        </StackPanel>
+        <StackPanel Margin="0,10,0,0" Grid.Row="1">
+            <DatePicker x:Name="datePicker" Header="Select a date:" Margin="10,10,10,20"/>
+            <TimePicker x:Name="timePicker" Header="Select a time:" Time="12:00:00" Margin="10,0,10,20"/>
+            <TextBlock Margin="10,0,10,10" Text="Name" FontSize="20"></TextBlock>
+            <TextBox Margin="10,0,10,0"></TextBox>
+           
+            
+        </StackPanel>
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+
+        </Grid>
+        <Grid Grid.Row="2">
+            <Button HorizontalAlignment="Left" Content="Choose symbol" Margin="30" Click="ChooseSymbol"></Button>
+            <Button HorizontalAlignment="Right" Content="Add" Margin="30" ></Button>
+        </Grid>
+    </Grid>
+</Page>

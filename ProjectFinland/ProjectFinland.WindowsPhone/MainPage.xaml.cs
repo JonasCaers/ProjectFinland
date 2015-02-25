@@ -13,6 +13,7 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
+
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234238
 
 namespace ProjectFinland
@@ -32,7 +33,29 @@ namespace ProjectFinland
 
             this.NavigationCacheMode = NavigationCacheMode.Required;
         }
+        /// <summary>
+        /// This is the handler for the DateChanged event.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void datePicker_DateChanged(object sender, DatePickerValueChangedEventArgs e)
+        {
+            // The DateTimeFormatter class formats dates and times with the user's default settings
+            Windows.Globalization.DateTimeFormatting.DateTimeFormatter dateFormatter = new Windows.Globalization.DateTimeFormatting.DateTimeFormatter("shortdate");
 
+           // rootPage.NotifyUser("Date changed to " + dateFormatter.Format(e.NewDate), NotifyType.StatusMessage);
+        }
+
+        /// <summary>
+        /// This is the handler for the TimeChanged event.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void timePicker_TimeChanged(object sender, TimePickerValueChangedEventArgs e)
+        {
+            
+           // rootPage.NotifyUser("Time changed to " + e.NewTime.ToString(), NotifyType.StatusMessage);
+        }
         /// <summary>
         /// Invoked when this page is about to be displayed in a Frame.
         /// </summary>
@@ -54,8 +77,8 @@ namespace ProjectFinland
         {
 
             //login knop
-            
 
+            Frame.Navigate(typeof(TasksList));
             
             
 

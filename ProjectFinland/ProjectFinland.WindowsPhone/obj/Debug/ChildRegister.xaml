@@ -48,13 +48,13 @@
         <Grid Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2">
             <StackPanel VerticalAlignment="Center">
                 <TextBlock Text="Password" FontSize="20"></TextBlock>
-                <TextBox></TextBox>
+                <PasswordBox></PasswordBox>
             </StackPanel>
         </Grid>
         <Grid Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2">
             <StackPanel VerticalAlignment="Center">
                 <TextBlock Text="Confirm password" FontSize="20"></TextBlock>
-                <TextBox></TextBox>
+                <PasswordBox></PasswordBox>
             </StackPanel>
         </Grid>
         <Grid Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2">

@@ -22,6 +22,7 @@ namespace ProjectFinland
     /// </summary>
     public sealed partial class Page2 : Page
     {
+        bool PasswordOK = false;
         public Page2()
         {
             this.InitializeComponent();
@@ -38,7 +39,16 @@ namespace ProjectFinland
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Frame.Navigate(typeof(page3));
-        }
+            if (PasswordParents != ConfPassword)
+            {
+                PasswordOK = true;
+            }
+
+            if (UsernameParents.Text != null && PasswordOK == true)
+            {
+                Frame.Navigate(typeof(page3));
+                PasswordOK = false;
+            }
+            }
     }
 }

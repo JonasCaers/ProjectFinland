@@ -40,3 +40,55 @@ C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinla
 C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\page3.g.cs
 C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\page3.xaml
 C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\page3.xbf
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\App.xbf
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\ProjectFinland.WindowsPhone.xr.xml
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\ProjectFinland.WindowsPhone.exe
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\ProjectFinland.WindowsPhone.pdb
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\resources.pri
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\ProjectFinland.WindowsPhone.build.appxrecipe
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\App.xaml
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\App.xbf
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\ProjectFinland.WindowsPhone.exe
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\ProjectFinland.WindowsPhone.pdb
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\Add task.g.i.cs
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\Add task.g.cs
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\TasksList.g.i.cs
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\TasksList.g.cs
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\Add task.xaml
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\Add task.xbf
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\TasksList.xaml
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\TasksList.xbf
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\ParentRegister.g.i.cs
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\ParentRegister.g.cs
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\ChildRegister.g.i.cs
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\ChildRegister.g.cs
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\ParentRegister.xaml
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\ChildRegister.xaml
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\ParentRegister.xbf
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\ChildRegister.xbf
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\Add task.xbf
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\ParentRegister.xbf
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\ChildRegister.xbf
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\TasksList.xbf

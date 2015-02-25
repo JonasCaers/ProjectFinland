@@ -35,7 +35,8 @@
         <Grid Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2">
             <StackPanel HorizontalAlignment="Right">
                 <TextBox Height="5" Width="120" Name="username" Text="Username"></TextBox>
-                <TextBox Width="120" Height="5" Name="password" Text="Password"></TextBox>
+                <PasswordBox Width="120" Height="5" Name="password"></PasswordBox>
+                
             </StackPanel>
             <StackPanel VerticalAlignment="Top">
                 <Button Width="10" Click="Button_Click">Login</Button>
@@ -43,6 +44,6 @@
             </StackPanel>
 
         </Grid>
-
+  
     </Grid>
 </Page>

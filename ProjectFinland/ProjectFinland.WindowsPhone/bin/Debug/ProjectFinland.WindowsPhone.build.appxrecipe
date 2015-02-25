@@ -1,64 +1,70 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>JONASC-PC</Machine>
-    <WindowsUser>jonas</WindowsUser>
+    <Machine>LAPTOP</Machine>
+    <WindowsUser>Joris­_Pelleriaux</WindowsUser>
     <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>ba12bf1a-93ae-446c-aa9f-044d8839ed42</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\ProjectFinland.WindowsPhone.exe">
+    <AppxPackagedFile Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\ProjectFinland.WindowsPhone.exe">
       <PackagePath>ProjectFinland.WindowsPhone.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\Assets\Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\Assets\SmallLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\Assets\SmallLogo.scale-240.png">
       <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\Assets\SplashScreen.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\Assets\SplashScreen.scale-240.png">
       <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
       <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\Assets\StoreLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\Assets\StoreLogo.scale-240.png">
       <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\Assets\WideLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\Assets\WideLogo.scale-240.png">
       <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\Add task.xbf">
+      <PackagePath>Add task.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\Page2.xbf">
-      <PackagePath>Page2.xbf</PackagePath>
+    <AppxPackagedFile Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\ParentRegister.xbf">
+      <PackagePath>ParentRegister.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\page3.xbf">
-      <PackagePath>page3.xbf</PackagePath>
+    <AppxPackagedFile Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\ChildRegister.xbf">
+      <PackagePath>ChildRegister.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\ProjectFinland.WindowsPhone.xr.xml">
+    <AppxPackagedFile Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\TasksList.xbf">
+      <PackagePath>TasksList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\ProjectFinland.WindowsPhone.xr.xml">
       <PackagePath>ProjectFinland.WindowsPhone.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonas\Documents\Visual Studio 2013\Projects\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
