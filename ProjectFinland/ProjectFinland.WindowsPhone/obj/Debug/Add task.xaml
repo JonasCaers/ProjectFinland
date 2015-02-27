@@ -19,23 +19,31 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
         <!-- Title Panel -->
         <StackPanel Grid.Row="0" Margin="19,0,0,0">
            
-            <TextBlock Text="Add Task" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+            
+            <TextBlock Text="Add Task" Width="220" HorizontalAlignment="Left" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+            
         </StackPanel>
         <StackPanel Margin="0,10,0,0" Grid.Row="1">
             <DatePicker x:Name="datePicker" Header="Select a date:" Margin="10,10,10,20"/>
             <TimePicker x:Name="timePicker" Header="Select a time:" Time="12:00:00" Margin="10,0,10,20"/>
             <TextBlock Margin="10,0,10,10" Text="Name" FontSize="20"></TextBlock>
             <TextBox Margin="10,0,10,0"></TextBox>
-            <Button x:ConnectionId='1' Content="Add" HorizontalAlignment="Right" Margin="30"                 ></Button>
+           
+            
         </StackPanel>
         <!--TODO: Content should be placed within the following grid-->
         <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
 
+        </Grid>
+        <Grid Grid.Row="2">
+            <Button x:ConnectionId='1' HorizontalAlignment="Left" Content="Choose symbol" Margin="30"                     ></Button>
+            <Button HorizontalAlignment="Right" Content="Add" Margin="30" ></Button>
         </Grid>
     </Grid>
 </Page>

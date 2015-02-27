@@ -92,3 +92,8 @@ C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\Project
 C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\ParentRegister.xbf
 C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\ChildRegister.xbf
 C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\TasksList.xbf
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\Themes\Generic.g.i.cs
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\Themes\Generic.g.cs
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\Themes\Generic.xaml
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\obj\Debug\Themes\Generic.xbf
+C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\Themes\Generic.xbf

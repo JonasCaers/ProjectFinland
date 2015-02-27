@@ -61,6 +61,9 @@
     <AppxPackagedFile Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\TasksList.xbf">
       <PackagePath>TasksList.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\Themes\Generic.xbf">
+      <PackagePath>Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\shp204\Documents\Schooljaar 2014-2015\Semester 2\ProjectFinland\ProjectFinland\ProjectFinland.WindowsPhone\bin\Debug\ProjectFinland.WindowsPhone.xr.xml">
       <PackagePath>ProjectFinland.WindowsPhone.xr.xml</PackagePath>
     </AppxPackagedFile>
