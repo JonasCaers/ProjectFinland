@@ -1,0 +1,1 @@
+Server=tcp:yaff54f7e0.database.windows.net,1433;Database=Kids List;User ID=Groep2B@yaff54f7e0;Password={your_password_here};Trusted_Connection=False;Encrypt=True;Connection Timeout=30;
