@@ -12,6 +12,7 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+using Windows.Data;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkID=390556
 
@@ -39,16 +40,8 @@ namespace ProjectFinland
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            if (PasswordParents != ConfPassword)
-            {
-                PasswordOK = true;
-            }
+         
+        }
 
-            if (UsernameParents.Text != null && PasswordOK == true)
-            {
-                Frame.Navigate(typeof(page3));
-                PasswordOK = false;
-            }
-            }
     }
 }

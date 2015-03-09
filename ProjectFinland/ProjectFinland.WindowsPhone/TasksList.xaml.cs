@@ -15,7 +15,8 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
-
+using Windows.Data;
+using Microsoft.WindowsAzure.MobileServices;
 // The Basic Page item template is documented at http://go.microsoft.com/fwlink/?LinkID=390556
 
 namespace ProjectFinland
@@ -23,18 +24,26 @@ namespace ProjectFinland
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
+    /// 
+   
     public sealed partial class TasksList : Page
     {
         private NavigationHelper navigationHelper;
         private ObservableDictionary defaultViewModel = new ObservableDictionary();
 
+        public static MobileServiceClient MobileService = new MobileServiceClient(
+          "http://localhost:51295"
+);
+        // Use this constructor instead after publishing to the cloud
+        // public static MobileServiceClient MobileService = new MobileServiceClient(
+        //      "https://kidslist1.azure-mobile.net/",
+        //      "vqXufUfTwgxXZUeDyITkBjmswoFLQH73"
+        //);
+
         public TasksList()
         {
-            this.InitializeComponent();
-
-            this.navigationHelper = new NavigationHelper(this);
-            this.navigationHelper.LoadState += this.NavigationHelper_LoadState;
-            this.navigationHelper.SaveState += this.NavigationHelper_SaveState;
+            
+         
         }
 
         /// <summary>

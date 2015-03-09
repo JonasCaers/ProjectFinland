@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WCFChildrenService" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WCFChildrenService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfCHILDREN">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CHILDREN" nillable="true" type="tns:CHILDREN" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCHILDREN" nillable="true" type="tns:ArrayOfCHILDREN" />
+  <xs:complexType name="CHILDREN">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ID" type="xs:int" />
+      <xs:element minOccurs="0" name="NAME" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PASSWORD" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="USERNAME" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CHILDREN" nillable="true" type="tns:CHILDREN" />
+  <xs:complexType name="CompositeType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="BoolValue" type="xs:boolean" />
+      <xs:element minOccurs="0" name="StringValue" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CompositeType" nillable="true" type="tns:CompositeType" />
+</xs:schema>
